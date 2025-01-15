@@ -1,0 +1,9 @@
+{
+  "version": "4.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../Degree Factbook (1320226).SemanticModel"
+    },
+    "byConnection": null
+  }
+}

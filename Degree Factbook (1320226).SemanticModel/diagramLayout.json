@@ -1,0 +1,314 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 768.84444444444443,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 1222.8888888888891,
+            "y": 635.33333333333314
+          },
+          "nodeIndex": "DWH Academic_Term_Dim",
+          "nodeLineageTag": "d4e6c2eb-39cc-457a-a35d-c2b2d28ef3eb",
+          "size": {
+            "height": 270,
+            "width": 234
+          },
+          "zIndex": 17
+        },
+        {
+          "location": {
+            "x": 1313.6,
+            "y": 287
+          },
+          "nodeIndex": "DWH College_Dim",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 1599.3,
+            "y": 572
+          },
+          "nodeIndex": "DWH Degree_Status_Dim",
+          "nodeLineageTag": "8cccf200-0c49-4817-8a1c-7ca68e18d95f",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 8
+        },
+        {
+          "location": {
+            "x": 1915.2,
+            "y": 32
+          },
+          "nodeIndex": "DWH Sex_Dim",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 9
+        },
+        {
+          "location": {
+            "x": 2427.9,
+            "y": 0
+          },
+          "nodeIndex": "DWH Student_Dim",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 10
+        },
+        {
+          "location": {
+            "x": 2660.833333333333,
+            "y": 552
+          },
+          "nodeIndex": "DWH Student_Level_Dim",
+          "nodeLineageTag": "7c864eac-067f-4bf6-8428-101e00c779b1",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 12
+        },
+        {
+          "location": {
+            "x": 2285.166666666667,
+            "y": 1369.6666666666667
+          },
+          "nodeIndex": "DWH Degree_Dim",
+          "nodeLineageTag": "6a608079-4ee2-4ca6-8100-31ff8d6b7dc3",
+          "size": {
+            "height": 155,
+            "width": 234
+          },
+          "zIndex": 19
+        },
+        {
+          "location": {
+            "x": 2649.4,
+            "y": 267
+          },
+          "nodeIndex": "DWH Degree_Level_Dim",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 11
+        },
+        {
+          "location": {
+            "x": 1913.1,
+            "y": 334.66666666666663
+          },
+          "nodeIndex": "DWH Degree_Fact",
+          "nodeLineageTag": "bb7eea93-939a-44c7-a8b2-f55f9257256c",
+          "size": {
+            "height": 392,
+            "width": 392
+          },
+          "zIndex": 18,
+          "expandedHeight": 304
+        },
+        {
+          "location": {
+            "x": 1618.6,
+            "y": 14
+          },
+          "nodeIndex": "DWH Major_Dim_Major_1",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 2040.6,
+            "y": 815
+          },
+          "nodeIndex": "DWH Major_Dim_Major_1_2",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 2333.8,
+            "y": 826
+          },
+          "nodeIndex": "DWH Major_Dim_Minor_1",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 1719,
+            "y": 805
+          },
+          "nodeIndex": "DWH Major_Dim_Minor_1_2",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 20
+        },
+        {
+          "location": {
+            "x": 932.7444444444443,
+            "y": 190.33333333333334
+          },
+          "nodeIndex": "DWH Major_Dim",
+          "nodeLineageTag": "452c62ce-ec11-4ccd-8dc6-0a79c13c1558",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 13
+        },
+        {
+          "location": {
+            "x": 1343.4,
+            "y": 45
+          },
+          "nodeIndex": "DWH Degree_Major_Fact",
+          "nodeLineageTag": "1e1ad3ec-f993-413a-bbf6-ffbb9aded96f",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 23
+        },
+        {
+          "location": {
+            "x": 973.40000000000009,
+            "y": 0
+          },
+          "nodeIndex": "DWH Major_Type_Dim",
+          "nodeLineageTag": "c79bc03a-a9b0-48c6-a271-f207023d4a61",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 2213.1000000000004,
+            "y": 18
+          },
+          "nodeIndex": "DWH Student_Type_Dim",
+          "nodeLineageTag": "c9d6e28a-d744-468d-9b9d-ef13ed1e1fa5",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 15
+        },
+        {
+          "location": {
+            "x": 933.21111111111122,
+            "y": 508.11111111111109
+          },
+          "nodeIndex": "DWH Minor_Dim",
+          "nodeLineageTag": "86744235-ac39-40ba-9f3d-f19a26e1aad4",
+          "size": {
+            "height": 296,
+            "width": 234
+          },
+          "zIndex": 14
+        },
+        {
+          "location": {
+            "x": 1634.7333333333336,
+            "y": 287.33333333333331
+          },
+          "nodeIndex": "DWH Degree_Graduation_Year_Fact",
+          "nodeLineageTag": "14a1eea6-4578-40f7-88bd-6699ee8b90a0",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 16
+        },
+        {
+          "location": {
+            "x": 2950.6222222222223,
+            "y": 414.11111111111109
+          },
+          "nodeIndex": "DWH Degree_Major_Minor_Combo_Fact",
+          "nodeLineageTag": "2bd4734a-57d5-413f-805f-db9012f1aadf",
+          "size": {
+            "height": 224,
+            "width": 288
+          },
+          "zIndex": 22
+        },
+        {
+          "location": {
+            "x": 2641.4,
+            "y": 957
+          },
+          "nodeIndex": "DWH Major_Minor_Combo_Primary_Dim",
+          "nodeLineageTag": "0ab8b9b4-75bd-4622-a599-be7660ac8549",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 2940.4,
+            "y": 950
+          },
+          "nodeIndex": "DWH Major_Minor_Combo_Secondary_Dim",
+          "nodeLineageTag": "de8e1b2a-3950-47a4-9158-7739ff59fcb3",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 21
+        },
+        {
+          "location": {
+            "x": 2343.7333333333331,
+            "y": 461.83333333333331
+          },
+          "nodeIndex": "Metadata Glossary",
+          "nodeLineageTag": "b378bfa0-3e7c-4ae2-b137-6fc97550822f",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 1
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 90,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}

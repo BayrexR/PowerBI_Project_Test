@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Degree Factbook (1320226)"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "64cd0f29-7a36-447a-b3b9-15372efd1b15"
+  }
+}
